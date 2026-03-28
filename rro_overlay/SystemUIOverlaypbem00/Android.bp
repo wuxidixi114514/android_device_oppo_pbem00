@@ -1,0 +1,6 @@
+runtime_resource_overlay {
+    name: "SystemUIOverlaypbem00",
+    theme: "SystemUIOverlaypbem00",
+    sdk_version: "current",
+    device_specific: true
+}

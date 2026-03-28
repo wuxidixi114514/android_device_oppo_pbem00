@@ -1,0 +1,6 @@
+runtime_resource_overlay {
+    name: "CarrierConfigOverlaypbem00",
+    theme: "CarrierConfigOverlaypbem00",
+    sdk_version: "current",
+    device_specific: true
+}
